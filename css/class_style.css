@@ -1,0 +1,40 @@
+body{
+	background-image: url(../images/bg_ti.jpg);
+	background-position: left top;
+	background-repeat: repeat-x;
+	background-size:100% 400px;
+}
+
+.container{
+	margin-top: 200px;
+}
+
+.nav_right{
+	height:190px;
+	border: 1px solid #e8e1e1;
+}
+
+
+.body_left{
+	height: 600px;
+	border-left:1px solid #0099FF;
+}
+
+.img_location{
+	margin: -7px;
+}
+.body_left span{
+	margin-left: 10px;
+}
+.row{
+	margin:10px 0 ;
+}
+
+.alert-success{
+	background-color: rgba(255,255,255,0.4)!important;
+}
+
+.alert{
+	margin-bottom: 0 !important;
+	color: #03A9F4 !important;
+}
